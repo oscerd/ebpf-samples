@@ -64,5 +64,4 @@ Get back to the original docker container terminal and you should see:
 20.475619649       mkdir            24445  mkdir Syscall invoked
 20.477075177       mkdir            24446  mkdir Syscall invoked
 20.478946454       mkdir            24447  mkdir Syscall invoked
-
 ```
