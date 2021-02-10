@@ -58,7 +58,7 @@ root@77ec0687d623:/usr/share/bcc/examples# chmod +x mkdir_script.sh
 root@77ec0687d623:/usr/share/bcc/examples# ./mkdir_script.sh
 ```
 
-Get the back to the original docker container terminal and you should see:
+Get back to the original docker container terminal and you should see:
 
 ```
 20.475619649       mkdir            24445  mkdir Syscall invoked
